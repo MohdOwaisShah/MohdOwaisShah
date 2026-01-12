@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am mohammad owais from mumbai, india<br>react developer working in a shopify agency where building shopify apps.<br>
+I am mohammad owais from mumbai, india<br>react developer working in a shopify agency where building shopify apps.<br>
 
 
 ## 🌐 Socials:
