@@ -1,7 +1,6 @@
 # 💫 About Me:
-Frontend Developer | React.js • JavaScript • HTML • CSS<br>
-Building modern web apps & learning every day 🚀<br>
-
+Frontend Developer passionate about React.js and modern UI<br>
+Currently learning & building real-world projects 💻✨<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/where_is_owais_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-owais-shah) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:owaisshahh245@gmail.com) 
